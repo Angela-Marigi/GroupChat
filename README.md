@@ -1,1 +1,1 @@
-# MentalHealth-Group
+Mental Health Group App Project
